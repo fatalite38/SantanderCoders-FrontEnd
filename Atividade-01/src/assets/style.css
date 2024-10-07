@@ -48,11 +48,11 @@ button {
 }
 
 button:hover {
-    background-color: #1a2431;
+    background-color: #6a963b;
     cursor: pointer;
 }
 
 
 p {
-    color: #A6F750;
+    color: #caf799;
 }
