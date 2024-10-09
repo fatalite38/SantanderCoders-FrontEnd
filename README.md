@@ -2,3 +2,6 @@
 
 ### Atividade-01
 - Formulário Dinâmico
+
+### Atividade-02
+- Simulação de funcionamento de uma lâmpada, até ela quebrar.
