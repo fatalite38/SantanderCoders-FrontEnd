@@ -4,4 +4,4 @@
 - Formulário Dinâmico
 
 ### Atividade-02
-- Simulação de funcionamento de uma lâmpada, até ela quebrar.
+- Simulação do funcionamento de uma lâmpada(acender, apagar). Até ela quebrar.
