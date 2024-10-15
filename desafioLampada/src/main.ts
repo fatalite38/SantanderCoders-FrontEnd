@@ -20,4 +20,23 @@ function sleep(ms: number): Promise<void> {
   }
 
 document.getElementById('changeImg')?.addEventListener('click', changeImg);
+
+
+// const images: string[] = ['src/assets/img/Apagada.jpg', 'src/assets/img/Acessa.jpg', 'src/assets/img/Quebrada.jpg'];
+// let count = 0;
+
+// function changeImg() {
+//   const imgElement = document.getElementById('image') as HTMLImageElement;
+
+//   count++;
+
+//   if (count < 10) {
+//     imgElement.src = images[count % 2];
+//   } else {
+//     imgElement.src = images[2];
+//     alert('Lâmpada Quebrada, compre outra...');
+//   }
+// }
+
+// document.getElementById('changeImg')?.addEventListener('click', changeImg);
   
